@@ -4,7 +4,7 @@ tg.expand();
 tg.ready();
 
 // API URL (замени на свой Render URL)
-const API_URL = 'https://your-bot.onrender.com';
+const API_URL = 'https://podslushano-webapp.vercel.app/';
 
 // Показываем основной контент
 document.querySelector('.container').style.display = 'block';
